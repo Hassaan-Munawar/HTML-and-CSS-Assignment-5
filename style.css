@@ -1,0 +1,40 @@
+button{
+    width: 50px;
+    height: 40px;
+    border-radius: 40px;
+    color: white;
+    background-color: grey;
+    border: 1px solid black;
+}
+#size{
+    width: 105px;
+    height: 40px;
+    text-align: left;
+    padding-left: 10px;
+}
+#maindiv{
+    line-height: 50px;
+    margin: auto;
+    border: 1px solid white;
+    border-radius: 60px;
+    width: 50%;
+    padding-left: 40px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+body{
+    background-color: black;
+}
+#zero{
+    color: white;
+    text-align: right;
+    font-size: 40px;
+    padding-right: 70px;
+}
+.darkgrey{
+    background-color: rgb(176, 165, 165);
+    color: black;
+}
+.yellow{
+    background-color: rgb(255, 191, 0);
+}
